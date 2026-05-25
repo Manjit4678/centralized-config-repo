@@ -1,5 +1,5 @@
 app:
-  message: Dynamic Refresh Working as expected
+  message: Dynamic Refresh Working 
 feature:
   dynamic-config-enabled: true
 
