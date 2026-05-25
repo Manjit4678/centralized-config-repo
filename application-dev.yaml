@@ -1,0 +1,13 @@
+app:
+  message: Hello From DEV Environment
+
+feature:
+  dynamic-config-enabled: true
+
+server-config:
+  api-timeout-ms: 3000
+  retry-count: 1
+
+logging:
+  level:
+    root: DEBUG

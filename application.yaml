@@ -1,0 +1,13 @@
+app:
+  message: Hello From Centralized Config Repository
+
+feature:
+  dynamic-config-enabled: true
+
+server-config:
+  api-timeout-ms: 5000
+  retry-count: 3
+
+logging:
+  level:
+    root: INFO
