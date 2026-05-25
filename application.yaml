@@ -1,6 +1,5 @@
 app:
-  message: Hello From Centralized Config Repository
-
+  message: Dynamic Refresh Working
 feature:
   dynamic-config-enabled: true
 
